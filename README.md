@@ -8,5 +8,5 @@ To get google play store: I used Genymotion Emulator and installed the play stor
 
 To test the app, you can either create an account and try to add your own classes and gaps, or if you want to test all the functionality that the application provides, I would recommend signing in with these credentials:
 
-Username: jon@snow.com
+Username: jon@snow.com  
 Password: adminpass
